@@ -41,5 +41,6 @@ team ships products that normally need a much larger organisation.
 
 Always open to talking with founders, product people and developers building AI-native products.
 
+- LinkedIn — https://www.linkedin.com/in/armen-martirosian-0b7647253/
 - LaunchKitAI — https://launchkitai.tech/
 - TeamsCode — https://teamscode.tech/
