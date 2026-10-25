@@ -5,7 +5,7 @@ building AI-native products with a very small team using agent-assisted developm
 
 ## Now
 
-**LaunchKitAI** — Founder & Product Lead → https://launchkitai.tech/
+**KitAI** — Founder & Product Lead → https://launchkitai.tech/
 
 An AI GTM workspace. You describe a product; it analyses the product, stage, budget
 and market, selects the few promotion paths that genuinely fit, generates the launch
@@ -23,8 +23,11 @@ partnerships
 
 ## How we build
 
-A small core team. I lead product, business, GTM and strategy. My co-founder Vera Koroleva
-leads technical implementation, backend, integrations and system stability.
+A founding team:
+
+- Armen Martirosian — Product / Business / GTM / Strategy
+- Vera Koroleva — Tech / Backend / Integrations / System Stability
+- Valentin Butiugin — Venture / Capital / Strategic Partnerships / Fundraising / Community / Distribution
 
 We build with AI-assisted development and agentic coding workflows. It's how a very small
 team ships products that normally need a much larger organisation.
@@ -42,7 +45,6 @@ team ships products that normally need a much larger organisation.
 Always open to talking with founders, product people and developers building AI-native products.
 
 - LinkedIn — https://www.linkedin.com/in/armen-martirosian-s
-- 
 - Email — arevmer@gmail.com
-- LaunchKitAI — https://launchkitai.tech/
+- KitAI — https://launchkitai.tech/
 - TeamsCode — https://teamscode.tech/
